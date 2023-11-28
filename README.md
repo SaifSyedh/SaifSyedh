@@ -8,7 +8,7 @@
   - [Microsoft Azure: SIEM & SOAR](https://github.com/SaifSyedh/MicrosoftAzureSentinal/blob/main/README.md)
 
 - <b>Nessus Essential Vulnerability Management Project</b>
-  - [Nessus Essential Vulnerability Management]
+  - [Nessus Essential Vulnerability Management](https://github.com/SaifSyedh/Vulnerability-Management-Nessus-Essentials)
 
 
 <h2>🥇 Certifications</h2>
